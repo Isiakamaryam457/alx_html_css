@@ -1,8 +1,14 @@
 body {
     display: flex;
     flex-direction: column;
+    background-color: lavender;
 }
 
+header {
+    background-color: #4b0082;
+    padding: 20px 0;
+    height: 80px;
+}
 main {
     display: flex;
     flex-direction: row;
@@ -12,10 +18,15 @@ main {
 article {
     flex: 2;
     overflow-y: auto;
+    border: 2px solid beige;
 }
 
 aside {
     flex: 1;
     overflow-y: auto;
 }
-
+ table {
+    width: 100%;
+    border: 2px solid beige;
+    border-collapse: collapse;
+ }

@@ -115,6 +115,7 @@ header .right {
 header {
 	padding: 20px 0;
 	height: 80px;
+	
 }
 header ul {
 	list-style: none;
@@ -130,6 +131,7 @@ header li:first-child {
 }
 header li a {
 	margin: 0 10px;
+	color: white;
 }
 header li.logo {
 	font-size: 36px;
