@@ -1,0 +1,1 @@
+This project is about building a website from the scratch using just html and css no javascript!
